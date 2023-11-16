@@ -2,8 +2,8 @@
 
 ## WIE3007 Data Mining & Data Warehousing
 
-## SEMESTER 1 2023/2024
+## Semester 1 2023/2024
 
-### INDIVIDUAL ASSIGNMENT 1: LEVERAGING FEATURETOOLS TO PERFORM AUTOMATED FEATURE ENGINEERING ON E-COMMERCE DATA
+### Individual Assignment 1: Leveraging Featuretools To Perform Automated Feature Engineering
 
 By: Jasmine Chong See Yan (S2132419)
